@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="inch">inch</string>
+    <string name="foot">foot</string>
+    <string name="yard2">yard</string>
+    <string name="mile2">mile</string>
+    <string name="yard">yard</string>
+    <string name="mile">mile</string>
+    <string name="foot2">foot</string>
+</resources>
